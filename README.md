@@ -41,7 +41,7 @@ I am always looking for new opportunities that allow me to grow and add value in
 <h3>Project 2: Todo List Manager</h3>
 <p><strong>Overview:</strong> This project consists of two repositories, one for the user interface (TodoList) and another for the API (TodoApi). Together, they enable efficient task management.</p>
 
-<h3>Repositories</h3>
+<h4>Repositories</h4>
 <ul>
     <li><strong><a href="https://github.com/davidfreixes/ToDoList">TodoList</a></strong>
         <ul>
