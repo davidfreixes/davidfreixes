@@ -35,7 +35,7 @@ I am always looking for new opportunities that allow me to grow and add value in
 ## Projects
 
 <h3>Project 1: Store</h3>
-<p><strong>Repository Name:</strong> <a href="https://github.com/davidfreixes/Store">Store</a></p>
+<p><strong>Repository Name:</strong> <strong> <a href="https://github.com/davidfreixes/Store">Store</a></strong></p>
 <p><strong>Description:</strong> This project is based on a client's request. The client owns a store with various products and wants to automate accounting. The product information (name, price) is stored in a CSV file, and another CSV file contains a list of customers with the products they have purchased. The goal is to generate a list of all purchased products and determine the earnings for each product and the total earnings.</p>
 
 <h3>Project 2: Todo List Manager</h3>
