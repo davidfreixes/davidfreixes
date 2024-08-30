@@ -53,7 +53,7 @@ I am always looking for new opportunities that allow me to grow and add value in
     <li><strong><a href="https://github.com/davidfreixes/ToDoApi">TodoApi</a></strong>
         <ul>
             <li><strong>Description:</strong> An API developed using JPA (Java Persistence API) to interact with the task database. It provides endpoints for managing task entities and handles server-side logic.</li>
-            <li><strong>Languages Used:</strong> Java.</li>
+            <li><strong>Languages used:</strong> Java.</li>
         </ul>
     </li>
 </ul>
@@ -66,13 +66,13 @@ I am always looking for new opportunities that allow me to grow and add value in
     <li><strong><a href="https://github.com/davidfreixes/Spent-FrontEnd">Spent-FrontEnd</a></strong>
         <ul>
             <li><strong>Description:</strong> The front-end repository for the SPENT application. It provides an intuitive user interface for creating and joining sports events.</li>
-            <li><strong>Languages Used:</strong> JavaScript, HTML, CSS</li>
+            <li><strong>Languages used:</strong> TypeScript, HTML, CSS.</li>
         </ul>
     </li>
     <li><strong><a href="https://github.com/davidfreixes/Spent-API">Spent-API</a></strong>
         <ul>
             <li><strong>Description:</strong> The back-end API repository for the SPENT application. It handles server-side logic and provides endpoints for managing events and user interactions.</li>
-            <li><strong>Languages Used:</strong> Java, Spring Boot</li>
+            <li><strong>Languages Used:</strong> Java, Spring Boot.</li>
         </ul>
     </li>
 </ul>
