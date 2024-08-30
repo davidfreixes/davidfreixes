@@ -57,3 +57,22 @@ I am always looking for new opportunities that allow me to grow and add value in
         </ul>
     </li>
 </ul>
+
+<h3>Project 3: SPENT</h3>
+<p><strong>Overview:</strong> SPENT is a personal project aimed at individuals who want to engage in community sports activities. This web application allows users to create sports events for others to join or to join events created by others.</p>
+
+<h4>Repositories:</h4>
+<ul>
+    <li><strong><a href="https://github.com/davidfreixes/Spent-FrontEnd">Spent-FrontEnd</a></strong>
+        <ul>
+            <li><strong>Description:</strong> The front-end repository for the SPENT application. It provides an intuitive user interface for creating and joining sports events.</li>
+            <li><strong>Languages Used:</strong> JavaScript, HTML, CSS</li>
+        </ul>
+    </li>
+    <li><strong><a href="https://github.com/davidfreixes/Spent-API">Spent-API</a></strong>
+        <ul>
+            <li><strong>Description:</strong> The back-end API repository for the SPENT application. It handles server-side logic and provides endpoints for managing events and user interactions.</li>
+            <li><strong>Languages Used:</strong> Java, Spring Boot</li>
+        </ul>
+    </li>
+</ul>
