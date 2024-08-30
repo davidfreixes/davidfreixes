@@ -53,7 +53,7 @@ I am always looking for new opportunities that allow me to grow and add value in
     <li><strong><a href="https://github.com/davidfreixes/ToDoApi">TodoApi</a></strong>
         <ul>
             <li><strong>Description:</strong> An API developed using JPA (Java Persistence API) to interact with the task database. It provides endpoints for managing task entities and handles server-side logic.</li>
-            <li><strong>Languages Used:</strong> Java, JPA.</li>
+            <li><strong>Languages Used:</strong> Java.</li>
         </ul>
     </li>
 </ul>
