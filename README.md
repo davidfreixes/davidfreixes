@@ -37,6 +37,7 @@ I am always looking for new opportunities that allow me to grow and add value in
 <h3>Project 1: Store</h3>
 <p><strong>Repository Name:</strong> <strong> <a href="https://github.com/davidfreixes/Store">Store</a></strong></p>
 <p><strong>Description:</strong> This project is based on a client's request. The client owns a store with various products and wants to automate accounting. The product information (name, price) is stored in a CSV file, and another CSV file contains a list of customers with the products they have purchased. The goal is to generate a list of all purchased products and determine the earnings for each product and the total earnings.</p>
+<p><strong>Languages Used:</strong> Java</p>
 
 <h3>Project 2: Todo List Manager</h3>
 <p><strong>Overview:</strong> This project consists of two repositories, one for the user interface (TodoList) and another for the API (TodoApi). Together, they enable efficient task management.</p>
@@ -46,11 +47,13 @@ I am always looking for new opportunities that allow me to grow and add value in
     <li><strong><a href="https://github.com/davidfreixes/ToDoList">TodoList</a></strong>
         <ul>
             <li><strong>Description:</strong> A web application that allows users to create, read, complete, edit, and delete tasks. The interface is intuitive and easy to use, facilitating daily task management.</li>
+            <li><strong>Languages Used:</strong> TypeScript, HTML, CSS</li>
         </ul>
     </li>
     <li><strong><a href="https://github.com/davidfreixes/ToDoApi">TodoApi</a></strong>
         <ul>
             <li><strong>Description:</strong> An API developed using JPA (Java Persistence API) to interact with the task database. It provides endpoints for managing task entities and handles server-side logic.</li>
+            <li><strong>Languages Used:</strong> Java, JPA</li>
         </ul>
     </li>
 </ul>
