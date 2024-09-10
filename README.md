@@ -64,13 +64,13 @@ I am always looking for new opportunities that allow me to grow and add value in
 
 <h4>Repositories:</h4>
 <ul>
-    <li><strong><a href="https://github.com/davidfreixes/Spent-FrontEnd">Spent-FrontEnd</a></strong>
+    <li><strong><a href="https://github.com/davidfreixes/Spent_FrontEnd">Spent-FrontEnd</a></strong>
         <ul>
             <li><strong>Description:</strong> The front-end repository for the SPENT application. It provides an intuitive user interface for creating and joining sports events.</li>
             <li><strong>Languages used:</strong> TypeScript, HTML, CSS.</li>
         </ul>
     </li>
-    <li><strong><a href="https://github.com/davidfreixes/Spent-API">Spent-API</a></strong>
+    <li><strong><a href="https://github.com/Jaranag/Spent-API">Spent-API</a></strong>
         <ul>
             <li><strong>Description:</strong> The back-end API repository for the SPENT application. It handles server-side logic and provides endpoints for managing events and user interactions.</li>
             <li><strong>Languages Used:</strong> Java, Spring Boot.</li>
