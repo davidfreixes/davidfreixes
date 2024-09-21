@@ -34,10 +34,25 @@ I am always looking for new opportunities that allow me to grow and add value in
 
 ## Projects
 
-<h3>Project 1: Store</h3>
-<p><strong>Repository Name:</strong> <strong> <a href="https://github.com/davidfreixes/Store">Store</a></strong></p>
-<p><strong>Description:</strong> This project is based on a client's request. The client owns a store with various products and wants to automate accounting. The product information (name, price) is stored in a CSV file, and another CSV file contains a list of customers with the products they have purchased. The goal is to generate a list of all purchased products and determine the earnings for each product and the total earnings.</p>
-<p><strong>Languages Used:</strong> Java.</p>
+<h3>Project 1: SPENT</h3>
+<p><strong>Overview:</strong> SPENT is a personal project aimed at individuals who want to engage in community sports activities. This web application allows users to create sports events for others to join or to join events created by others.</p>
+<p><strong>Deployment:</strong> The project is deployed at <a href="https://spent-front-end-lac.vercel.app/">https://spent-front-end-lac.vercel.app/</a></p>
+
+<h4>Repositories:</h4>
+<ul>
+    <li><strong><a href="https://github.com/davidfreixes/Spent_FrontEnd">Spent-FrontEnd</a></strong>
+        <ul>
+            <li><strong>Description:</strong> The front-end repository for the SPENT application. It provides an intuitive user interface for creating and joining sports events.</li>
+            <li><strong>Languages used:</strong> TypeScript, HTML, CSS.</li>
+        </ul>
+    </li>
+    <li><strong><a href="https://github.com/Jaranag/Spent-API">Spent-API</a></strong>
+        <ul>
+            <li><strong>Description:</strong> The back-end API repository for the SPENT application. It handles server-side logic and provides endpoints for managing events and user interactions.</li>
+            <li><strong>Languages Used:</strong> Java, Spring Boot.</li>
+        </ul>
+    </li>
+</ul>
 
 <h3>Project 2: Todo List Manager</h3>
 <p><strong>Overview:</strong> This project consists of two repositories, one for the user interface (TodoList) and another for the API (TodoApi). Together, they enable efficient task management.</p>
@@ -58,22 +73,9 @@ I am always looking for new opportunities that allow me to grow and add value in
     </li>
 </ul>
 
-<h3>Project 3: SPENT</h3>
-<p><strong>Overview:</strong> SPENT is a personal project aimed at individuals who want to engage in community sports activities. This web application allows users to create sports events for others to join or to join events created by others.</p>
-<p><strong>Deployment:</strong> The project is deployed at <a href="https://spent-front-end-lac.vercel.app/">https://spent-front-end-lac.vercel.app/</a></p>
+<h3>Project 3: Store</h3>
+<p><strong>Repository Name:</strong> <strong> <a href="https://github.com/davidfreixes/Store">Store</a></strong></p>
+<p><strong>Description:</strong> This project is based on a client's request. The client owns a store with various products and wants to automate accounting. The product information (name, price) is stored in a CSV file, and another CSV file contains a list of customers with the products they have purchased. The goal is to generate a list of all purchased products and determine the earnings for each product and the total earnings.</p>
+<p><strong>Languages Used:</strong> Java.</p>
 
-<h4>Repositories:</h4>
-<ul>
-    <li><strong><a href="https://github.com/davidfreixes/Spent_FrontEnd">Spent-FrontEnd</a></strong>
-        <ul>
-            <li><strong>Description:</strong> The front-end repository for the SPENT application. It provides an intuitive user interface for creating and joining sports events.</li>
-            <li><strong>Languages used:</strong> TypeScript, HTML, CSS.</li>
-        </ul>
-    </li>
-    <li><strong><a href="https://github.com/Jaranag/Spent-API">Spent-API</a></strong>
-        <ul>
-            <li><strong>Description:</strong> The back-end API repository for the SPENT application. It handles server-side logic and provides endpoints for managing events and user interactions.</li>
-            <li><strong>Languages Used:</strong> Java, Spring Boot.</li>
-        </ul>
-    </li>
-</ul>
+
