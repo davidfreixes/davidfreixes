@@ -36,7 +36,7 @@ I am always looking for new opportunities that allow me to grow and add value in
 
 <h3>Project 1: SPENT</h3>
 <p><strong>Overview:</strong> SPENT is a personal project aimed at individuals who want to engage in community sports activities. This web application allows users to create sports events for others to join or to join events created by others.</p>
-<p><strong>Deployment:</strong> The project is deployed at <a href="https://spent-front-end-lac.vercel.app/">https://spent-front-end-lac.vercel.app</a></p>
+<p><strong>Deployment:</strong> The project is deployed at <a href="https://spent-alpha.vercel.app/">https://spent-alpha.vercel.app/</a></p>
 
 <h4>Repositories:</h4>
 <ul>
