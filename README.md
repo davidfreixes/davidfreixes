@@ -4,7 +4,7 @@
 </p>
 
 <p>
-I am a back-end programmer with an academic background and a wide range of technical skills. My interest in computer science began with my studies in Computer Engineering at university and I am committed to continuous learning and improving my technical skills.
+Full-stack programmer
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills </b>
