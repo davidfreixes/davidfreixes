@@ -20,15 +20,6 @@
 ### Software & Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,idea,git,figma)](https://skillicons.dev)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-
-<p align="center">
-  <a href="https://github.com/davidfreixes">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidfreixes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="davidfreixes GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidfreixes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
-</p>
-
 ## Projects
 
 ### Promptinity SaaS
